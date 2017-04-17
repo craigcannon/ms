@@ -90,18 +90,20 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  padding-bottom: 10px;
 
   @include large {
     padding: 3rem 6rem;
+    padding-bottom: 0px;
   }
 
   @include medium {
     padding: 3rem 4rem;
+    padding-bottom: 0px;
   }
 
   @include small {
     padding: 2rem 1rem;
+    padding-bottom: 0px;
   }
 }
 
