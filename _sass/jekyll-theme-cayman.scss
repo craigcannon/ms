@@ -89,7 +89,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-image: url('../assets/img/dreamteam-web.jpg');
+  background-color: $header-bg-color;
 
   @include large {
     padding: 5rem 6rem;
