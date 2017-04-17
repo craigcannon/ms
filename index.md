@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![](../assets/img/dreamteam-web.jpg)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
